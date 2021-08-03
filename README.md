@@ -26,7 +26,7 @@ Luego entrar a la carpeta ```final-project-eda```
 ```
 cd final-project-eda
 ```
-Finalemnete ejectuar el archivo main que se encuentra dentro de la carpeta ```scr```
+Finalmente ejectuar el archivo main que se encuentra dentro de la carpeta ```scr```
 ```
 g++ -std=c++11 src/main.cpp
 ./a.out
